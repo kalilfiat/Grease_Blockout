@@ -1,6 +1,6 @@
 ![ImagePreview](./assets/image/GreaseBlockoutThumbnail.png)
 
-# Grease Blockout v1.0
+# Grease Blockout v1.02
 
 A procedural Blender addon written in **Python** designed to generate rough blockout meshes directly from Grease Pencil drawings for fast concepting, early modeling, and Technical Art workflows.
 
